@@ -1,0 +1,12 @@
+import Relax.Console;
+
+open area Main
+{
+	open cls Main
+	{
+		open static Main()
+		{
+			Relax.Console.Print("hello world");
+		}
+	}
+}
